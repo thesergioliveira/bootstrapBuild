@@ -28,7 +28,6 @@
 }
 
 /* general elements  */
-
 a {
   font-family: "pt-sans";
   font-weight: 400;
@@ -46,10 +45,20 @@ a {
   margin: 5% auto;
 }
 
+/* navigation section */
+nav {
+  width: 100vw;
+}
+
+.logo {
+  margin: 0 2%;
+}
+
 /* carousel section */
 
 .d-block {
   height: 50vh;
+  width: 100vw;
 }
 
 /* testemonial section */
