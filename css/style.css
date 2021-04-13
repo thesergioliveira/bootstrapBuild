@@ -34,7 +34,7 @@ a {
 .d-block {
   height: 40vh;
 }
-.container-fluid {
+section {
   border: 2px solid red;
 }
 
