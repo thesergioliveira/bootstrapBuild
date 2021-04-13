@@ -30,3 +30,7 @@ a {
   font-family: "pt-sans";
   font-weight: 400;
 }
+
+.d-block {
+  height: 40vh;
+}
