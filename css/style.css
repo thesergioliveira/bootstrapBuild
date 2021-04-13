@@ -1,3 +1,4 @@
+/* settting the font-family, weight and style */
 @font-face {
   font-family: "pt-sans";
   src: url(../fonts/PTSans-Regular.ttf);
@@ -26,31 +27,15 @@
   font-style: italic;
 }
 
+/* general elements  */
+
 a {
   font-family: "pt-sans";
   font-weight: 400;
 }
 
-.d-block {
-  height: 50vh;
-}
-
-section {
-  /* border: 2px solid red; */
-}
-
-[alt^="testemonial"] {
-  /* border: 2px solid pink; */
-  height: 90px;
-  width: 90px;
-}
-
 .heading {
   border: 2px solid yellow;
-}
-
-.testemonials {
-  margin: 5% auto;
 }
 
 .divider {
@@ -61,6 +46,23 @@ section {
   margin: 5% auto;
 }
 
+/* carousel section */
+
+.d-block {
+  height: 50vh;
+}
+
+/* testemonial section */
+.testemonials {
+  margin: 5% auto;
+}
+
+[alt^="testemonial"] {
+  height: 90px;
+  width: 90px;
+}
+
+/* footer section */
 .links-footer {
   margin: 0 8px;
 }
