@@ -35,15 +35,26 @@ a {
   height: 40vh;
 }
 section {
-  border: 2px solid red;
+  /* border: 2px solid red; */
 }
 
 [alt^="testemonial"] {
-  border: 2px solid pink;
-  height: 75px;
-  width: 75px;
+  /* border: 2px solid pink; */
+  height: 90px;
+  width: 90px;
 }
 
 .heading {
   border: 2px solid yellow;
+}
+.testemonials {
+  margin: 30px auto;
+}
+
+.divider {
+  content: "";
+  width: 75vw;
+  height: 1px;
+  background-color: rgba(128, 128, 128, 0.575);
+  margin: 40px auto;
 }
