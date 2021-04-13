@@ -25,3 +25,8 @@
   font-weight: 500;
   font-style: italic;
 }
+
+a {
+  font-family: "pt-sans";
+  font-weight: 400;
+}
