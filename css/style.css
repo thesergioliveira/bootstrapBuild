@@ -34,6 +34,7 @@ a {
 .d-block {
   height: 50vh;
 }
+
 section {
   /* border: 2px solid red; */
 }
@@ -47,6 +48,7 @@ section {
 .heading {
   border: 2px solid yellow;
 }
+
 .testemonials {
   margin: 5% auto;
 }
@@ -57,4 +59,14 @@ section {
   height: 1px;
   background-color: rgba(128, 128, 128, 0.575);
   margin: 5% auto;
+}
+
+.links-footer {
+  margin: 0 8px;
+}
+
+.to-top,
+.links-footer {
+  text-decoration: none;
+  font-weight: 700;
 }
