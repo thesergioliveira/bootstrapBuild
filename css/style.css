@@ -34,3 +34,16 @@ a {
 .d-block {
   height: 40vh;
 }
+.container-fluid {
+  border: 2px solid red;
+}
+
+[alt^="testemonial"] {
+  border: 2px solid pink;
+  height: 75px;
+  width: 75px;
+}
+
+.heading {
+  border: 2px solid yellow;
+}
